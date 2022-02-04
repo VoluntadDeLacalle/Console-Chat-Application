@@ -1,4 +1,4 @@
-<style> h1, h2 {text-align: center;}  </style>
+<style> h1 {text-align: center;}  </style>
 
 <h1>Console Chat App</h1>
 <h2>Made by William Lacalle</h2>
